@@ -110,11 +110,3 @@ for message in chat.history:
     display(to_markdown(f'**{message.role}**: {message.parts[0].text}'))
     print('-'*100)
 ```
-
-
-
-
-
-
-
-4o
